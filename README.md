@@ -5,8 +5,8 @@
 # Hi there ! 👋 I'm Musa
 
 - 🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/"> <img align="center" width="25%" src="./images/cyf.png" /></a>
-- 〽️ I passionate about learning new things,
-- ❤️ I love everything that can fly <p> 🚀 🦅 ✈️ 🦋 </p>
+- 〽️ My motto in life is "Never stop learning because life never stops teaching!!!"
+- ❤️ I love everything that can fly <span style="font-size:24px;"> 🚀 🦅 ✈️ 🦋 </span>
 
 ### Connect with me:
 
@@ -37,8 +37,8 @@
 
 ---
 
-| <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musayuksel&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="Anurag's github stats" /></a> | <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayuksel" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musayuksel&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="github stats" /></a> | <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayuksel" alt="Most used languanges"/></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [linkedin]: https://www.linkedin.com/in/musa-yuksel-625838205/
 [html]: "/"
