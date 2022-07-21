@@ -4,8 +4,8 @@
 
 # Hi there ! 👋 I'm Musa
 
-- 🌱 I’m currently trainee Web Developer at <a href="https://codeyourfuture.io/meet-the-team/"> <img align="center" width="25%" src="./images/cyf.png" /></a>
-- 〽️ My motto in life is "Never stop learning because life never stops teaching!!!"
+- 🌱 Currently trainee Web Developer at <a href="https://www.and.digital/"> <img align="center" width="15%" src="./images/and-digital-logo.png" /></a>
+- 〽️ Motto in life is "Never stop learning because life never stops teaching!!!"
 - ❤️ I love everything that can fly <span style="font-size:24px;"> 🚀 🦅 ✈️ 🦋 </span>
 
 ### Connect with me:
