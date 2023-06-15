@@ -37,8 +37,8 @@
 
 ---
 
-| <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musayuksel&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="github stats" /></a> | <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayuksel" alt="Most used languanges"/></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musayuksel&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="github stats" /></a>  <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayuksel" alt="Most used languanges"/></a> 
+[![Profile badge](https://www.codewars.com/users/musayuksel/badges/large)](https://www.codewars.com/users/musayuksel)
 
 [linkedin]: https://www.linkedin.com/in/musa-yuksel-625838205/
 [html]: "/"
