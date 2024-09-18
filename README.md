@@ -4,7 +4,7 @@
 
 # Hi there ! 👋 I'm Musa
 
-- 🌱 Currently, Junior Software Engineer at <a href="https://www.bbc.co.uk/"> <img align="center" width="15%" src="./images/bbc-logo.png" /></a>
+- 🌱 Currently, Junior Software Engineer at <a href="https://www.bbc.co.uk/"> <img align="center" width="15%" src="./images/bbc-logo.jpg" /></a>
 - 〽️ Motto in life is "Never stop learning because life never stops teaching!!!"
 - ❤️ I love everything that can fly <span style="font-size:24px;"> 🚀 🦅 ✈️ 🦋 </span>
 
@@ -37,7 +37,7 @@
 
 ---
 
- <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musayuksel&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="github stats" /></a>  <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayuksel" alt="Most used languanges"/></a> 
+<a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=musayuksel&hide=issue&include_all_commits=true&count_private=true&show_icons=true&theme=highcontrast" alt="github stats" /></a> <a href="https://github.com/musayuksel?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musayuksel" alt="Most used languanges"/></a>
 [![Profile badge](https://www.codewars.com/users/musayuksel/badges/large)](https://www.codewars.com/users/musayuksel)
 
 [linkedin]: https://www.linkedin.com/in/musa-yuksel-625838205/
