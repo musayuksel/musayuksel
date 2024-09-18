@@ -4,7 +4,7 @@
 
 # Hi there ! 👋 I'm Musa
 
-- 🌱 Currently, Associate at <a href="https://www.and.digital/"> <img align="center" width="15%" src="./images/and-digital-logo.png" /></a>
+- 🌱 Currently, Junior Software Engineer at <a href="https://www.bbc.co.uk/"> <img align="center" width="15%" src="./images/bbc-logo.png" /></a>
 - 〽️ Motto in life is "Never stop learning because life never stops teaching!!!"
 - ❤️ I love everything that can fly <span style="font-size:24px;"> 🚀 🦅 ✈️ 🦋 </span>
 
